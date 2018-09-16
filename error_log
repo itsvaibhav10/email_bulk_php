@@ -1,0 +1,7 @@
+[04-Sep-2018 10:54:33 Asia/Calcutta] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'osho'@'localhost' (using password: YES) in /home3/silversys/oshofriendsfoundation.com/osho/db.php on line 13
+[04-Sep-2018 10:54:33 Asia/Calcutta] PHP Warning:  mysqli::escape_string(): Couldn't fetch mysqli in /home3/silversys/oshofriendsfoundation.com/osho/mail.php on line 6
+[04-Sep-2018 10:54:33 Asia/Calcutta] PHP Warning:  mysqli::escape_string(): Couldn't fetch mysqli in /home3/silversys/oshofriendsfoundation.com/osho/mail.php on line 8
+[04-Sep-2018 10:54:33 Asia/Calcutta] PHP Warning:  mysqli::escape_string(): Couldn't fetch mysqli in /home3/silversys/oshofriendsfoundation.com/osho/mail.php on line 10
+[04-Sep-2018 10:54:49 Asia/Calcutta] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'osho'@'localhost' (using password: YES) in /home3/silversys/oshofriendsfoundation.com/osho/db.php on line 13
+[04-Sep-2018 10:54:49 Asia/Calcutta] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home3/silversys/oshofriendsfoundation.com/osho/mailed_table.php on line 30
+[04-Sep-2018 10:54:49 Asia/Calcutta] PHP Fatal error:  Call to a member function fetch_assoc() on null in /home3/silversys/oshofriendsfoundation.com/osho/mailed_table.php on line 32
